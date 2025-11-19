@@ -12,7 +12,7 @@ console.log("My name is love babbar")
 // this two line is type of the sync code  because as the execution of "My name is love babbar" will occur immediately after the execution of the "Hello".
 
 // 2.asynchronous code
-// synchronous code is the block of the code in which the execution of the code happens instantly ie without any delay when the interpreter comes to that line of code.
+// asynchronous code is the block of the code in which the execution of the code happens instantly ie with any delay when the interpreter comes to that line of code.
 // ex:
 function sayMyName(){
     console.log("My name is Love babbar")
